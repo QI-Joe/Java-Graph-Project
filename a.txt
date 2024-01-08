@@ -1,0 +1,6 @@
+rectangle abaabaaba 5 100000 2 300000
+rectangle sdfg 10000 100000 2 300000
+group G1 sdfg abaabaaba
+boundingbox G1
+circle C3 20 20 20
+circle C5 20000 20000 100000
